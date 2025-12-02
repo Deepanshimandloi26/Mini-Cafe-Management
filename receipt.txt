@@ -1,0 +1,11 @@
+------ IT Cafe Receipt ------
+2025-12-01 23:45:03.809624
+
+Pizza x1 - Rs 40
+Coffee x2 - Rs 160
+
+Subtotal: Rs 200
+GST: Rs 10.0
+Discount: Rs 20.0
+Grand Total: Rs 190.0
+------------------------------
